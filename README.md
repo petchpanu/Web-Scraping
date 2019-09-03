@@ -13,10 +13,12 @@ The websites that are scraped are mostly Thai website.
 
 You follow the websites that are scaped:
 > https://www.wongnai.com/
+> https://www.pantip.com/
 
 ## Methodology
 
 After scrape the data, we will combine the data into dataframe and clean the data.
+Data from pantip website will undergo Thai Part-Of-Speecg tag.
 
 ## Authors
 
