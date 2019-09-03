@@ -20,7 +20,7 @@ You follow the websites that are scaped:
 ## Methodology
 
 After scrape the data, we will combine the data into dataframe and clean the data.
-Data from pantip website will undergo Thai Part-Of-Speecg tag.
+Data from pantip website will undergo Thai Part-Of-Speech tag.
 
 ## Authors
 
