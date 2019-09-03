@@ -8,6 +8,7 @@ The websites that are scraped are mostly Thai website.
 - Python 3.6.8
 - Selenium 3.141.0
 - Numpy 1.16.4
+- pythainlp 2.0.7 
 
 ## Getting Start
 
